@@ -72,7 +72,7 @@ namespace Chip8_NET20
             this.lblAuthor.Name = "lblAuthor";
             this.lblAuthor.Size = new System.Drawing.Size(278, 13);
             this.lblAuthor.TabIndex = 3;
-            this.lblAuthor.Text = "Copyright (C)  2020  Felipe BF  <smprg.6502@gmail.com>";
+            this.lblAuthor.Text = "Copyright (C)  2025, Aura Lesse Programmer <aurasys.7608@zohomail.com>";
             // 
             // FrmAbout
             // 
